@@ -1,5 +1,4 @@
 git:
-filters:
   - filter_type: dir
     file_format: PO
     source_file_extension: pot
