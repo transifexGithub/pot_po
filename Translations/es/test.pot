@@ -11,11 +11,11 @@ msgstr ""
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution"
-msgstr "CC Attribution"
+msgstr "CC Attributioneses"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-ShareAlike"
-msgstr "CC Attribution-ShareAlike"
+msgstr "CC Attribution-ShareAlikees"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-NonCommercial-ShareAlike"
