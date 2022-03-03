@@ -11,11 +11,11 @@ msgstr ""
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution"
-msgstr "CC Attribution"
+msgstr "Atribución CC"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-ShareAlike"
-msgstr "CC Attribution-ShareAlike"
+msgstr "CC Reconocimiento-CompartirIgual"
 
 #: src/heraldry/attribution.cljs
 msgid "CC Attribution-NonCommercial-ShareAlike"
@@ -23,12 +23,12 @@ msgstr "CC Attribution-NonCommercial-ShareAlike"
 
 #: src/heraldry/attribution.cljs
 msgid "Public Domain"
-msgstr "Public Domain"
+msgstr "Dominio publico"
 
 #: src/heraldry/attribution.cljs
 msgid "Own work"
-msgstr "Own work"
+msgstr "Propio trabajo"
 
 #: src/heraldry/attribution.cljs
 msgid "Derivative"
-msgstr "Derivative"
+msgstr "Derivado"
