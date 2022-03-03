@@ -1,8 +1,8 @@
 git:
   filters:
-  - filter_type: dir
-    file_format: POT
+  - filter_type: file
+    file_format: PO
     source_file_extension: pot
     source_language: en
-    source_file_dir: locale/
+    source_file_dir: locale/test.pot
     translation_files_expression: '<lang>'
