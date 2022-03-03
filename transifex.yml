@@ -4,4 +4,4 @@ git:
     file_format: PO
     source_file: locale/test.pot
     source_language: en
-    translation_files_expression: '<lang>.pot'
+    translation_files_expression: '<lang>.po'
