@@ -2,6 +2,6 @@ git:
   filters:
   - filter_type: file
     file_format: PO
-    source_file: locale/example.po
+    source_file: locale/test.pot
     source_language: en
     translation_files_expression: '<lang>'
