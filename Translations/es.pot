@@ -1,0 +1,21 @@
+#
+msgid ""
+msgstr ""
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution"
+msgstr "CC Attribution"
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution-ShareAlike"
+msgstr "CC Attribution"
+#: src/heraldry/attribution.cljs
+msgid "CC Attribution-NonCommercial-ShareAlike"
+msgstr "CC Attribution"
+#: src/heraldry/attribution.cljs
+msgid "Public Domain"
+msgstr "CC Attribution"
+#: src/heraldry/attribution.cljs
+msgid "Own work"
+msgstr "CC Attribution"
+#: src/heraldry/attribution.cljs
+msgid "Derivative"
+msgstr "CC Attribution"
