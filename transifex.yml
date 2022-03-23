@@ -4,5 +4,5 @@ git:
       file_format: YAML_GENERIC
       source_file_extension: yaml
       source_language: en_GB
-      source_file_dir: translations/en_GB/
+      source_file_dir: source/en_GB/
       translation_files_expression: 'translations/<lang>/'
