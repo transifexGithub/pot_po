@@ -1,5 +1,5 @@
 git:
-filters:
+ filters:
   - filter_type: dir
     file_format: YML
     source_language: en_GB
